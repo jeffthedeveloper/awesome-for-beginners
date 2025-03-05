@@ -212,6 +212,9 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Vue.js](https://github.com/vuejs/vue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
+- [Mimo](https://github.com/getmimo) _(label: good first issue)_ <br> Learn to code on the go. This project could benefit from incorporating interactive visualizations for programming concepts using HTML, CSS, and JavaScript. This would enhance the learning experience, particularly for visual learners, and could be integrated with platforms like Sololearn for practical coding exercises.
+- [Sololearn](https://github.com/vturrisi/solo-learn) _(label: good first issue)_ <br>  A platform with interactive lessons and coding challenges for various programming languages, including HTML, CSS, and JavaScript. Integrating Sololearn's resources into Mimo could provide a more comprehensive and engaging learning experience.
+
 
 ## JSON
 
